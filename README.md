@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&family=Bungee+Shade&family=Coral+Pixels&family=Honk&family=Jersey+10+Charted&family=Monofett&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1>CAPITALONIA NATIONAL WEBSITE</h1>
+    <ul>
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="constitution.html">CONSTITUTION</a></li>
+      <li><a href="motto.html">MOTTO</a></li>
+      <li><a href="nationalsymbols.html">NATIONAL SYMBOLS</a></li>
+      <li><a href=""></a></li>
+    </ul>
+    
+  </body>
+</html>
